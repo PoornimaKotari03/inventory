@@ -1,3 +1,11 @@
+I build this backend for maintaining an inventory
+In this system we can
+
+List of all stores for the user
+List out all the books in inventory inside the store.
+Add a new book.
+Update inventory for an existing book.
+Remove from the inventory.
 
 Install dependencies for server
 npm install
